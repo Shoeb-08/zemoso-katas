@@ -52,6 +52,12 @@ git branch
 
 **kata 4 - ff merge**
 ```
+git commit
+git commit -m
+git merge <branch>
+git diff <branchA> <branchB>
+git log --oneline --graph --all
+
 
 
 ```
